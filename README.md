@@ -19,7 +19,9 @@ Ini adalah project web portofolio sederhana yang aku buat buat ngenalin diri dan
 ## 🔗 Demo
 
 Kamu bisa lihat hasil jadinya di sini:  
+👉 [https://github.com/ihaoren/Portoku](https://github.com/ihaoren/Portoku)
 👉 [https://ihaoren.github.io/Portoku](https://ihaoren.github.io/Portoku)
+👉 [https://roadmap.sh/projects/portfolio-website](https://roadmap.sh/projects/portfolio-website)
 
 
 ## Catatan
